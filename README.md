@@ -1,5 +1,5 @@
 <h1 align="center">Bem-Vindo!<h1>
-  Desenvolvedor Front-end em busca de uma primeira oportunidade no mercado de trabalho. Sou apaixonado por aprender coisas novas, principalmente quando estão relacionadas ao ramo da tecnologia. Busco a cada dia estar aprendendo um pouco mais sobre as novas tecnologias no mercado, e estar me atualizando sobre novas metodologias e conceitos aplicados no mesmo.
+  <p size='10px'>Desenvolvedor Front-end em busca de uma primeira oportunidade no mercado de trabalho. Sou apaixonado por aprender coisas novas, principalmente quando estão relacionadas ao ramo da tecnologia. Busco a cada dia estar aprendendo um pouco mais sobre as novas tecnologias no mercado, e estar me atualizando sobre novas metodologias e conceitos aplicados no mesmo.</p> 
   
 ## Skills
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -12,5 +12,5 @@
 
 ![Marcus's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcusCastroV&show_icons=true&theme=radical)
   
-![MostUsedLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusCastroV)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusCastroV&langs_count=8&theme=radical)
 
